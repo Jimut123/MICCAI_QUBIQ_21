@@ -22,13 +22,7 @@ Variability in delineation is an inherent property for segmenting medical imager
 
 ## If you find this work useful, please consider citing
 
-### Our paper
-
-```
-
-```
-
-### For Dataset
+### Our papers
 
 ```
 
