@@ -20,7 +20,9 @@ Variability in delineation is an inherent property for segmenting medical imager
   <img src="https://github.com/Jimut123/MICCAI_QUBIQ_21/raw/main/assets/results_table.png">
 </center>
 
+## Acknowledgements
 
+The author acknowledges the MICCAI-QUBIQ-2021 team to organize such a wonderful challenge by making the novel datasets available and also the reviewers for their critical discussions. Finally, the author thanks his mentors, Tamal Maharaj, Swathy Prabhu Mj, Dripta Mj and his father Dr. Jadab Kumar Pal for their suggestions.
 
 ## If you find this work useful, please consider citing our paper
 
