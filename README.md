@@ -2,7 +2,7 @@
 ***
 ## Work presented at the [MICCAI BrainLes 2021 workshop](https://www.brainlesion-workshop.org/).
 ***
-#### [[Poster](https://jimut123.github.io/publications/MICCAI_QUBIQ_21/Jimut_Bahan_Pal_QUBIQ_MICCAI.pdf)] | [[Presentation](https://www.youtube.com/watch?v=AaVvNG-ihMU)]
+#### [[Poster](https://jimut123.github.io/publications/MICCAI_QUBIQ_21/Jimut_Bahan_Pal_QUBIQ_MICCAI.pdf)] | [[Presentation](https://www.youtube.com/watch?v=AaVvNG-ihMU)] | [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-09002-8_49)]
 
 ## Abstract
 
