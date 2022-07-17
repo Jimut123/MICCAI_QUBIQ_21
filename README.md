@@ -25,5 +25,16 @@ Variability in delineation is an inherent property for segmenting medical imager
 ## If you find this work useful, please consider citing our paper
 
 ```
+@InProceedings{10.1007/978-3-031-09002-8_49,
+author="Pal, Jimut Bahan",
+editor="Crimi, Alessandro
+and Bakas, Spyridon",
+title="Holistic Network for Quantifying Uncertainties in Medical Images",
+booktitle="Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries",
+year="2022",
+publisher="Springer International Publishing",
+address="Cham",
+pages="560--569"
+}
 
 ```
