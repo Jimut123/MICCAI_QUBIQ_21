@@ -2,6 +2,9 @@
 ***
 ## Work presented at the [MICCAI BrainLes 2021 workshop](https://www.brainlesion-workshop.org/).
 ***
+
+[Pal, J.B. (2022). Holistic Network for Quantifying Uncertainties in Medical Images. In: Crimi, A., Bakas, S. (eds) Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries. BrainLes 2021. Lecture Notes in Computer Science, vol 12963. Springer, Cham. https://doi.org/10.1007/978-3-031-09002-8_49](https://link.springer.com/chapter/10.1007/978-3-031-09002-8_49)
+
 #### [[Poster](https://jimut123.github.io/publications/MICCAI_QUBIQ_21/Jimut_Bahan_Pal_QUBIQ_MICCAI.pdf)] | [[Presentation](https://www.youtube.com/watch?v=AaVvNG-ihMU)] | [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-09002-8_49)]
 
 ## Abstract
