@@ -42,4 +42,28 @@ pages="560--569"
 isbn="978-3-031-09002-8"
 }
 
+Or
+
+@inproceedings{DBLP:conf/brainles-ws/Pal21,
+  author    = {Jimut Bahan Pal},
+  editor    = {Alessandro Crimi and
+               Spyridon Bakas},
+  title     = {Holistic Network for Quantifying Uncertainties in Medical Images},
+  booktitle = {Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain
+               Injuries - 7th International Workshop, BrainLes 2021, Held in Conjunction
+               with {MICCAI} 2021, Virtual Event, September 27, 2021, Revised Selected
+               Papers, Part {II}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {12963},
+  pages     = {560--569},
+  publisher = {Springer},
+  year      = {2021},
+  url       = {https://doi.org/10.1007/978-3-031-09002-8\_49},
+  doi       = {10.1007/978-3-031-09002-8\_49},
+  timestamp = {Thu, 28 Jul 2022 13:13:16 +0200},
+  biburl    = {https://dblp.org/rec/conf/brainles-ws/Pal21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
 ```
